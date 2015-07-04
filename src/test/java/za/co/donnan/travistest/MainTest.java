@@ -14,7 +14,7 @@ public class MainTest {
 	
 	@Test
 	public void test2() {
-		assertThat(1, is(0));
+		assertThat(1, is(1));
 	}
 
 }
